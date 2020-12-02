@@ -4,6 +4,9 @@
 
 [Pirl](https://pirl.io/) is a blockchain based on Substrate framework using nPOS algorithm.
 
+## Documentation
+- [Official Pirl documentation](https://docs.pirl.io) - Official Pirl documentation maintained by the community
+
 ## Video seminar 
 - [Pirl 2.0 announcement ](https://www.crowdcast.io/e/pirl-2-0) - Community announcement of Pirl 2.0 
 - [Pirl 2.0 first steps ](https://www.crowdcast.io/e/pirl-2-0-first-steps) - First steps with Pirl 2.0 
@@ -18,4 +21,3 @@
 - [Pirl 2.0 Validator install script for Ubuntu 18.04](https://github.com/LoulouCrypto/Pirl-2.0) - Pirl 2.0 Validator install script for Ubuntu 18.04
 
 
-https://www.crowdcast.io/e/pirl-2-0
