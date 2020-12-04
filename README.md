@@ -21,4 +21,4 @@
 - [Pirl 2.0 Validator install script for Ubuntu 18.04](https://github.com/LoulouCrypto/Pirl-2.0) - Pirl 2.0 Validator install script for Ubuntu 18.04
 
 ## Tutorials
-- [API examples](https://github.com/starkleytech/pirl-examples) - Multi-Language examples to use the PIRL 2.0 API
+- [API examples](https://github.com/starkleytech/pirl-examples) - Multi-Language examples for using PIRL 2.0 API
